@@ -1,6 +1,8 @@
 # dependencies
 /node_modules
 
+# db
+db.json
 
 # misc
 .DS_Store
